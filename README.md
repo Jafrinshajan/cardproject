@@ -23,12 +23,8 @@ A responsive job portal interface built with React and Vite. This project displa
 ```bash
 npm install
 npm run dev
-```
-
-## 📸 Preview
-
-(Add a screenshot after completing the project.)
 
 ## 👨‍💻 Author
 
 **Jafrin Shajan**
+```
