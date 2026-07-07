@@ -8,11 +8,13 @@ body {
   width: 100%;
 }
 .parent {
+  min-height: 100vh;
   padding-top: 20px;
   background-color: #d8d8d8;
   display: flex;
   gap: 30px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .card {
   height: 300px;
